@@ -1,0 +1,16 @@
+/*index.html styles*/
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mainHead{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.recipe-list{
+    text-align: center;
+    color:rgb(99, 0, 0);
+    font-size: 32px;
+}

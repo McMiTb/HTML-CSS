@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgb(255, 242, 167);
+    font-family:'Courier New', Courier, monospace;
+}
+
+.headline {
+    color: rgb(66, 61, 30);
+    font-weight: bold;
+}
+
+.container{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.list{
+    margin-left: 30%;
+    text-align: left;
+}
